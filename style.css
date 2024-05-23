@@ -1,0 +1,17 @@
+.content{
+    text-align: center;
+}
+
+button{
+
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    color: white;
+}
+button:hover{
+    background-color: blueviolet;
+}
+p{
+    font-size: 24px;
+}
